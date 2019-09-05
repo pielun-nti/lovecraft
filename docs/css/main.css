@@ -1,0 +1,40 @@
+main {
+ background-color: green;
+ width: 50%;
+ margin: 0 auto;
+ font-family: 'Roboto', sans-serif;
+ /* font-family: Arial; */
+}
+
+h1 {
+ text-align: center;
+ color: red;
+ /* font-family: Georgia; */
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+.bodyimage {
+    background-image: url(https://dks.scene7.com/is/image/GolfGalaxy/17ADIMXPLRBLKWHTXLFS_White_Core_Black?wid=1080&fmt=jpg)
+}
+ 
+body {
+   background-color: orange;
+}
+
+blockquote > footer {
+    text-align: right;
+}
+
+
+/* 
+t {
+   background-color: green;
+} */
